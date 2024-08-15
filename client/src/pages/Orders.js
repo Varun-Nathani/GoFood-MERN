@@ -6,7 +6,7 @@ export default function Orders() {
   const [myOrders, setMyOrders] = useState([]);
 
   const loadOrders = async () => {
-    const response = await fetch(`http://localhost:5000/api/myOrder`, {
+    const response = await fetch(`https://gofood-backend-2zv8.onrender.com/api/myOrder`, {
       method: 'POST',
       headers: {
         "Content-Type": "application/json"

@@ -20,7 +20,7 @@ export default function Cart() {
   const handleCheckout = async () => {
     const userEmail = localStorage.getItem("email")
     const date = new Date();
-    const response = await fetch('http://localhost:5000/api/placeOrder', {
+    const response = await fetch('https://gofood-backend-2zv8.onrender.com/api/placeOrder', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
