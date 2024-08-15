@@ -1,0 +1,434 @@
+[
+    {
+        "cuisine": "South Indian",
+        "categoryName": "Main Course",
+        "name": "Masala Dosa",
+        "img": "https://www.shivsagar.com/img/dosa.svg",
+        "options": ["Plain", "Masala", "Cheese"],
+        "description": "Crispy rice crepe filled with spiced potato filling."
+    },
+    {
+        "cuisine": "South Indian",
+        "categoryName": "Appetizers",
+        "name": "Medu Vada",
+        "img": "https://www.shivsagar.com/img/medu-vada.svg",
+        "options": ["Single", "Double"],
+        "description": "Savory fried lentil doughnuts."
+    },
+    {
+        "cuisine": "South Indian",
+        "categoryName": "Soups",
+        "name": "Rasam",
+        "img": "https://example.com/rasam.jpg",
+        "options": ["Small", "Medium", "Large"],
+        "description": "Spicy and tangy South Indian soup."
+    },
+    {
+        "cuisine": "South Indian",
+        "categoryName": "Main Course",
+        "name": "Idli",
+        "img": "https://example.com/idli.jpg",
+        "options": ["Single", "Double"],
+        "description": "Steamed rice cakes served with chutney and sambar."
+    },
+    {
+        "cuisine": "South Indian",
+        "categoryName": "Main Course",
+        "name": "Uttapam",
+        "img": "https://example.com/uttapam.jpg",
+        "options": ["Plain", "Onion", "Tomato"],
+        "description": "Thick rice pancake topped with vegetables."
+    },
+    {
+        "cuisine": "South Indian",
+        "categoryName": "Dessert",
+        "name": "Payasam",
+        "img": "https://example.com/payasam.jpg",
+        "options": ["Small", "Medium", "Large"],
+        "description": "Sweet South Indian pudding made with milk and vermicelli."
+    },
+    {
+        "cuisine": "North Indian",
+        "categoryName": "Main Course",
+        "name": "Butter Chicken",
+        "img": "https://example.com/butter_chicken.jpg",
+        "options": ["Half", "Full"],
+        "description": "Creamy tomato-based chicken curry."
+    },
+    {
+        "cuisine": "North Indian",
+        "categoryName": "Main Course",
+        "name": "Paneer Tikka",
+        "img": "https://example.com/paneer_tikka.jpg",
+        "options": ["Half", "Full"],
+        "description": "Grilled paneer marinated in spices."
+    },
+    {
+        "cuisine": "North Indian",
+        "categoryName": "Main Course",
+        "name": "Dal Makhani",
+        "img": "https://example.com/dal_makhani.jpg",
+        "options": ["Half", "Full"],
+        "description": "Rich and creamy black lentil curry."
+    },
+    {
+        "cuisine": "North Indian",
+        "categoryName": "Breads",
+        "name": "Naan",
+        "img": "https://example.com/naan.jpg",
+        "options": ["Plain", "Butter", "Garlic"],
+        "description": "Soft and fluffy Indian flatbread."
+    },
+    {
+        "cuisine": "North Indian",
+        "categoryName": "Breads",
+        "name": "Roti",
+        "img": "https://example.com/roti.jpg",
+        "options": ["Plain", "Butter"],
+        "description": "Whole wheat Indian flatbread."
+    },
+    {
+        "cuisine": "North Indian",
+        "categoryName": "Soups",
+        "name": "Tomato Soup",
+        "img": "https://example.com/tomato_soup.jpg",
+        "options": ["Small", "Medium", "Large"],
+        "description": "Creamy tomato soup with herbs."
+    },
+    {
+        "cuisine": "Street Food",
+        "categoryName": "Snacks",
+        "name": "Pav Bhaji",
+        "img": "https://example.com/pav_bhaji.jpg",
+        "options": ["Single", "Double"],
+        "description": "Spicy mashed vegetable curry served with buttered bread."
+    },
+    {
+        "cuisine": "Street Food",
+        "categoryName": "Snacks",
+        "name": "Chole Bhature",
+        "img": "https://example.com/chole_bhature.jpg",
+        "options": ["Single", "Double"],
+        "description": "Spicy chickpeas served with fried bread."
+    },
+    {
+        "cuisine": "Street Food",
+        "categoryName": "Snacks",
+        "name": "Vada Pav",
+        "img": "https://example.com/vada_pav.jpg",
+        "options": ["Single", "Double"],
+        "description": "Spicy potato fritter in a bread bun."
+    },
+    {
+        "cuisine": "Street Food",
+        "categoryName": "Snacks",
+        "name": "Samosa",
+        "img": "https://example.com/samosa.jpg",
+        "options": ["Single", "Double"],
+        "description": "Deep-fried pastry filled with spiced potatoes and peas."
+    },
+    {
+        "cuisine": "Street Food",
+        "categoryName": "Snacks",
+        "name": "Bhel Puri",
+        "img": "https://example.com/bhel_puri.jpg",
+        "options": ["Small", "Medium", "Large"],
+        "description": "Tangy and spicy puffed rice snack."
+    },
+    {
+        "cuisine": "Chinese",
+        "categoryName": "Main Course",
+        "name": "Fried Rice",
+        "img": "https://example.com/fried_rice.jpg",
+        "options": ["Veg", "Chicken", "Prawn"],
+        "description": "Stir-fried rice with vegetables and/or meat."
+    },
+    {
+        "cuisine": "Chinese",
+        "categoryName": "Main Course",
+        "name": "Hakka Noodles",
+        "img": "https://example.com/hakka_noodles.jpg",
+        "options": ["Veg", "Chicken", "Prawn"],
+        "description": "Spicy stir-fried noodles with vegetables and/or meat."
+    },
+    {
+        "cuisine": "Chinese",
+        "categoryName": "Appetizers",
+        "name": "Spring Rolls",
+        "img": "https://example.com/spring_rolls.jpg",
+        "options": ["Veg", "Chicken"],
+        "description": "Crispy rolls filled with vegetables or chicken."
+    },
+    {
+        "cuisine": "Chinese",
+        "categoryName": "Appetizers",
+        "name": "Manchurian",
+        "img": "https://example.com/manchurian.jpg",
+        "options": ["Veg", "Chicken"],
+        "description": "Fried vegetable or chicken balls in a tangy sauce."
+    },
+    {
+        "cuisine": "Chinese",
+        "categoryName": "Soups",
+        "name": "Hot and Sour Soup",
+        "img": "https://example.com/hot_sour_soup.jpg",
+        "options": ["Small", "Medium", "Large"],
+        "description": "Spicy and tangy soup with vegetables."
+    },
+    {
+        "cuisine": "Chinese",
+        "categoryName": "Soups",
+        "name": "Sweet Corn Soup",
+        "img": "https://example.com/sweet_corn_soup.jpg",
+        "options": ["Small", "Medium", "Large"],
+        "description": "Mild and creamy soup with sweet corn."
+    },
+    {
+        "cuisine": "Mexican",
+        "categoryName": "Main Course",
+        "name": "Tacos",
+        "img": "https://example.com/tacos.jpg",
+        "options": ["Chicken", "Beef", "Vegetarian"],
+        "description": "Crispy tortillas filled with various fillings."
+    },
+    {
+        "cuisine": "Mexican",
+        "categoryName": "Appetizers",
+        "name": "Nachos",
+        "img": "https://example.com/nachos.jpg",
+        "options": ["Plain", "Loaded"],
+        "description": "Crispy tortilla chips topped with cheese and toppings."
+    },
+    {
+        "cuisine": "Mexican",
+        "categoryName": "Main Course",
+        "name": "Quesadilla",
+        "img": "https://example.com/quesadilla.jpg",
+        "options": ["Chicken", "Beef", "Vegetarian"],
+        "description": "Grilled tortillas filled with cheese and other ingredients."
+    },
+    {
+        "cuisine": "Mexican",
+        "categoryName": "Soups",
+        "name": "Tortilla Soup",
+        "img": "https://example.com/tortilla_soup.jpg",
+        "options": ["Small", "Medium", "Large"],
+        "description": "Spicy soup with tortilla strips."
+    },
+    {
+        "cuisine": "Mexican",
+        "categoryName": "Dessert",
+        "name": "Churros",
+        "img": "https://example.com/churros.jpg",
+        "options": ["Single", "Double"],
+        "description": "Fried dough pastry dusted with sugar."
+    },
+    {
+        "cuisine": "Drinks",
+        "categoryName": "Juices",
+        "name": "Orange Juice",
+        "img": "https://example.com/orange_juice.jpg",
+        "options": ["Small", "Medium", "Large"],
+        "description": "Freshly squeezed orange juice."
+    },
+    {
+        "cuisine": "Drinks",
+        "categoryName": "Juices",
+        "name": "Apple Juice",
+        "img": "https://example.com/apple_juice.jpg",
+        "options": ["Small", "Medium", "Large"],
+        "description": "Freshly pressed apple juice."
+    },
+    {
+        "cuisine": "Drinks",
+        "categoryName": "Milkshakes",
+        "name": "Chocolate Milkshake",
+        "img": "https://example.com/chocolate_milkshake.jpg",
+        "options": ["Small", "Medium", "Large"],
+        "description": "Creamy milkshake with rich chocolate flavor."
+    },
+    {
+        "cuisine": "Drinks",
+        "categoryName": "Milkshakes",
+        "name": "Vanilla Milkshake",
+        "img": "https://example.com/vanilla_milkshake.jpg",
+        "options": ["Small", "Medium", "Large"],
+        "description": "Classic vanilla-flavored milkshake."
+    },
+    {
+        "cuisine": "Drinks",
+        "categoryName": "Coffees",
+        "name": "Cappuccino",
+        "img": "https://example.com/cappuccino.jpg",
+        "options": ["Small", "Medium", "Large"],
+        "description": "Espresso-based coffee with steamed milk foam."
+    },
+    {
+        "cuisine": "Drinks",
+        "categoryName": "Coffees",
+        "name": "Latte",
+        "img": "https://example.com/latte.jpg",
+        "options": ["Small", "Medium", "Large"],
+        "description": "Smooth espresso with steamed milk."
+    },
+    {
+        "cuisine": "Drinks",
+        "categoryName": "Specialty Drinks",
+        "name": "Falooda",
+        "img": "https://example.com/falooda.jpg",
+        "options": ["Small", "Medium", "Large"],
+        "description": "Sweet beverage with rose syrup, vermicelli, and basil seeds."
+    },
+    {
+        "cuisine": "Drinks",
+        "categoryName": "Specialty Drinks",
+        "name": "Lassi",
+        "img": "https://example.com/lassi.jpg",
+        "options": ["Plain", "Sweet", "Salted"],
+        "description": "Traditional Indian yogurt drink."
+    },
+    {
+        "cuisine": "Drinks",
+        "categoryName": "Specialty Drinks",
+        "name": "Mango Lassi",
+        "img": "https://example.com/mango_lassi.jpg",
+        "options": ["Small", "Medium", "Large"],
+        "description": "Refreshing yogurt drink with mango flavor."
+    },
+    {
+        "cuisine": "South Indian",
+        "categoryName": "Main Course",
+        "name": "Bisi Bele Bath",
+        "img": "https://example.com/bisi_bele_bath.jpg",
+        "options": ["Small", "Medium", "Large"],
+        "description": "Spicy rice dish with vegetables and lentils."
+    },
+    {
+        "cuisine": "South Indian",
+        "categoryName": "Appetizers",
+        "name": "Banana Chips",
+        "img": "https://example.com/banana_chips.jpg",
+        "options": ["Small", "Medium", "Large"],
+        "description": "Crispy fried banana slices."
+    },
+    {
+        "cuisine": "South Indian",
+        "categoryName": "Dessert",
+        "name": "Mysore Pak",
+        "img": "https://example.com/mysore_pak.jpg",
+        "options": ["Single", "Double"],
+        "description": "Rich and sweet gram flour fudge."
+    },
+    {
+        "cuisine": "North Indian",
+        "categoryName": "Main Course",
+        "name": "Rajma Chawal",
+        "img": "https://example.com/rajma_chawal.jpg",
+        "options": ["Small", "Medium", "Large"],
+        "description": "Red kidney beans curry served with rice."
+    },
+    {
+        "cuisine": "North Indian",
+        "categoryName": "Main Course",
+        "name": "Aloo Paratha",
+        "img": "https://example.com/aloo_paratha.jpg",
+        "options": ["Single", "Double"],
+        "description": "Stuffed flatbread with spiced potatoes."
+    },
+    {
+        "cuisine": "North Indian",
+        "categoryName": "Dessert",
+        "name": "Gulab Jamun",
+        "img": "https://example.com/gulab_jamun.jpg",
+        "options": ["Single", "Double"],
+        "description": "Sweet deep-fried dough balls soaked in syrup."
+    },
+    {
+        "cuisine": "North Indian",
+        "categoryName": "Soups",
+        "name": "Mulligatawny Soup",
+        "img": "https://example.com/mulligatawny_soup.jpg",
+        "options": ["Small", "Medium", "Large"],
+        "description": "Spicy and creamy soup with vegetables and lentils."
+    },
+    {
+        "cuisine": "Street Food",
+        "categoryName": "Snacks",
+        "name": "Sev Puri",
+        "img": "https://example.com/sev_puri.jpg",
+        "options": ["Small", "Medium", "Large"],
+        "description": "Crispy puris topped with potatoes, chutneys, and sev."
+    },
+    {
+        "cuisine": "Street Food",
+        "categoryName": "Snacks",
+        "name": "Pani Puri",
+        "img": "https://example.com/pani_puri.jpg",
+        "options": ["Small", "Medium", "Large"],
+        "description": "Crispy puris filled with spicy water and tamarind chutney."
+    },
+    {
+        "cuisine": "Street Food",
+        "categoryName": "Snacks",
+        "name": "Aloo Tikki",
+        "img": "https://example.com/aloo_tikki.jpg",
+        "options": ["Single", "Double"],
+        "description": "Spicy potato patties served with chutneys."
+    },
+    {
+        "cuisine": "Chinese",
+        "categoryName": "Main Course",
+        "name": "Chow Mein",
+        "img": "https://example.com/chow_mein.jpg",
+        "options": ["Veg", "Chicken", "Prawn"],
+        "description": "Stir-fried noodles with vegetables and/or meat."
+    },
+    {
+        "cuisine": "Chinese",
+        "categoryName": "Appetizers",
+        "name": "Dumplings",
+        "img": "https://example.com/dumplings.jpg",
+        "options": ["Veg", "Chicken", "Prawn"],
+        "description": "Steamed or fried dumplings with various fillings."
+    },
+    {
+        "cuisine": "Chinese",
+        "categoryName": "Dessert",
+        "name": "Fortune Cookies",
+        "img": "https://example.com/fortune_cookies.jpg",
+        "options": ["Single", "Double"],
+        "description": "Crispy cookies with a fortune inside."
+    },
+    {
+        "cuisine": "Mexican",
+        "categoryName": "Main Course",
+        "name": "Burrito",
+        "img": "https://example.com/burrito.jpg",
+        "options": ["Chicken", "Beef", "Vegetarian"],
+        "description": "Large flour tortilla filled with rice, beans, and various fillings."
+    },
+    {
+        "cuisine": "Mexican",
+        "categoryName": "Appetizers",
+        "name": "Guacamole",
+        "img": "https://example.com/guacamole.jpg",
+        "options": ["Small", "Medium", "Large"],
+        "description": "Creamy avocado dip with tomatoes, onions, and lime."
+    },
+    {
+        "cuisine": "Drinks",
+        "categoryName": "Juices",
+        "name": "Carrot Juice",
+        "img": "https://example.com/carrot_juice.jpg",
+        "options": ["Small", "Medium", "Large"],
+        "description": "Freshly extracted carrot juice."
+    },
+    {
+        "cuisine": "Drinks",
+        "categoryName": "Milkshakes",
+        "name": "Strawberry Milkshake",
+        "img": "https://example.com/strawberry_milkshake.jpg",
+        "options": ["Small", "Medium", "Large"],
+        "description": "Creamy milkshake with fresh strawberries."
+    }
+]
