@@ -10,7 +10,7 @@ export default function Menu() {
 
 
   const loadData = async () => {
-    const response = await fetch(`https://gofood-backend-2zv8.onrender.com/api/foodData`, {
+    const response = await fetch(`https://gofood-backend-pt4i.onrender.com/api/foodData`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',

@@ -18,7 +18,7 @@ export default function Signup() {
 
     
 
-    const response = await fetch('https://gofood-backend-2zv8.onrender.com/api/createUser', {
+    const response = await fetch('https://gofood-backend-pt4i.onrender.com/api/createUser', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',

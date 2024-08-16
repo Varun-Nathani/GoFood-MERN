@@ -15,7 +15,7 @@ export default function Login() {
   const handleSubmit = async (e) => {
     e.preventDefault()
 
-    const response = await fetch('https://gofood-backend-2zv8.onrender.com/api/loginUser', {
+    const response = await fetch('https://gofood-backend-pt4i.onrender.com/api/loginUser', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
